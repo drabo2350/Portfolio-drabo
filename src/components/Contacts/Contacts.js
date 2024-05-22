@@ -148,7 +148,7 @@ function Contacts() {
                     setName('');
                     setEmail('');
                     setMessage('');
-                    setOpen(false);
+                    setOpen(true);
                 });
             } else {
                 setErrMsg('Invalid email');
