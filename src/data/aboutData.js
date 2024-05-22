@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Qui suis-je",
-    description1: "Je me nomme Hamed, développeur web résidant à Abidjan, en Côte d'Ivoire. Ma soif de connaissance est insatiable, car chaque jour est une nouvelle mission pour moi.",
-    description2: "Passionné par la programmation en général, je suis actuellement en apprentissage pour continuer à développer mes compétences. Ouvert à de nouvelles opportunités, j'aime explorer de nouveaux domaines de la programmation et créer mes propres projets pendant mes heures libres.",
+    description1: "Déterminé à repousser les limites de la technologie et à offrir des solutions innovantes. Mon parcours m'a permis de développer une approche méthodique et créative, alliant rigueur technique et sens artistique. Je suis animé par un profond désir de contribuer positivement à des projets ambitieux, tout en valorisant les richesses culturelles et technologiques de l'Afrique. Mon engagement envers l'excellence se reflète dans chaque projet que j'entreprends, cherchant constamment à améliorer mes compétences et à rester à la pointe des dernières avancées technologiques.",
+    description2: "En ce moment, je travaille sur mes projets personnels. Parallèlement, je développe un nouveau business de création et de commercialisation de portfolios pour les professionnels, visant à offrir des outils puissants pour mettre en valeur leurs compétences et réalisations. Mon ambition est de faire de ces projets des références dans leur domaine, en apportant une touche d'innovation et de qualité supérieure.",
     image: 1
 }

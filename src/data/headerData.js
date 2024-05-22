@@ -1,5 +1,5 @@
 import resume from '../assets/pdf/resume.pdf'
-import lacina from '../assets/jpg/lacina.png'
+import lacina from '../assets/jpg/lacina.PNG'
 
 export const headerData = {
     name: 'Lacina DRABO',
