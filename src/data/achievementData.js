@@ -27,7 +27,7 @@ export const achievementData = {
             title : 'Modelisation 3D',
             details : 'Modèles numériques précis et réalistes, appliqués aux domaines du design, de l\'animation et de la visualisation architecturale.',
             date : 'Novembre 30, 2022',
-            field : 'Orange Digital',
+            field : 'ODC',
             image : modelisation3d
         },
         {
@@ -35,7 +35,7 @@ export const achievementData = {
             title : 'L\'essentiel du HTML5',
             details : 'Les Fondamentaux du développement web, incluant la création de pages structurées, accessibles et optimisées pour différents navigateurs et appareils.',
             date : 'Octobre 2022',
-            field : 'Linkedin Learning',
+            field : 'Linkedin',
             image : html
         },
         {
