@@ -1,14 +1,14 @@
 export const socialsData = {
-    github: 'https://www.facebook.com/nivakine.gl',
-    facebook: 'https://www.facebook.com/nivakine.gl',
-    linkedIn: 'https://www.facebook.com/nivakine.gl',
-    instagram: 'https://www.facebook.com/nivakine.gl',
-    codepen: 'https://www.facebook.com/nivakine.gl',
-    twitter: 'https://www.facebook.com/nivakine.gl',
-    reddit: 'https://www.facebook.com/nivakine.gl',
-    blogger: 'https://www.facebook.com/nivakine.gl',
-    medium: 'https://www.facebook.com/nivakine.gl',
-    stackOverflow: 'https://www.facebook.com/nivakine.gl',
-    gitlab: 'https://www.facebook.com/nivakine.gl',
-    youtube: 'https://www.facebook.com/nivakine.gl'
+    github: 'https://github.com/drabo2350',
+    facebook: 'https://www.facebook.com/thisislacinadrabo',
+    linkedIn: 'https://www.linkedin.com/in/lacina-drabo/',
+    instagram: 'https://www.instagram.com/thisisdrabo/',
+    codepen: 'https://codepen.io/Machine9698',
+    twitter: 'https://x.com/Mr_Drabo',
+    reddit: 'https://www.facebook.com/',
+    blogger: 'https://www.facebook.com/',
+    medium: 'https://www.facebook.com/',
+    stackOverflow: 'https://www.facebook.com/',
+    gitlab: 'https://www.facebook.com/',
+    youtube: 'https://www.facebook.com/'
 }

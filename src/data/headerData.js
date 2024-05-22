@@ -1,10 +1,10 @@
 import resume from '../assets/pdf/resume.pdf'
-import sangare from '../assets/jpg/sangaresuit.png'
+import profil from '../assets/jpg/lacina.png'
 
 export const headerData = {
-    name: 'Hamed SANGARE',
-    title: "Marketing et communication",
+    name: 'Lacina DRABO',
+    title: "Developpeur React",
     desciption:"La programmation, c'est comme une symphonie. Il faut que tous les instruments jouent ensemble pour créer quelque chose d'extraordinaire.\nChaque grand projet a commencé par une ligne de code.",
-    image: sangare,
+    image: profil,
     resumePdf: resume
 }

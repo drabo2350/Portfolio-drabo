@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'buseruka@mail.com',
-    phone: '+2250000000000',
-    address: 'Abidjan, Cocody',
+    email: 'alasco.drabo@outlook.fr',
+    phone: '+2250504969856',
+    address: 'Abidjan, Yopougon',
 
     sheetAPI: ''
 }
