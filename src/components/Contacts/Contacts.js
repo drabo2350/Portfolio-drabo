@@ -15,7 +15,7 @@ import {
     FaCodepen,
     FaInstagram,
     FaGitlab,
-    FaMediumM,
+    FaFacebook,
 } from 'react-icons/fa';
 import { AiOutlineSend, AiOutlineCheckCircle } from 'react-icons/ai';
 import { FiPhone, FiAtSign } from 'react-icons/fi';
@@ -353,54 +353,14 @@ function Contacts() {
                                     <FaInstagram aria-label='Instagram' />
                                 </a>
                             )}
-                            {socialsData.medium && (
+                            {socialsData.facebook && (
                                 <a
-                                    href={socialsData.medium}
+                                    href={socialsData.facebook}
                                     target='_blank'
                                     rel='noreferrer'
                                     className={classes.socialIcon}
                                 >
-                                    <FaMediumM aria-label='Medium' />
-                                </a>
-                            )}
-                            {socialsData.blogger && (
-                                <a
-                                    href={socialsData.blogger}
-                                    target='_blank'
-                                    rel='noreferrer'
-                                    className={classes.socialIcon}
-                                >
-                                    <FaBloggerB aria-label='Blogger' />
-                                </a>
-                            )}
-                            {socialsData.youtube && (
-                                <a
-                                    href={socialsData.youtube}
-                                    target='_blank'
-                                    rel='noreferrer'
-                                    className={classes.socialIcon}
-                                >
-                                    <FaYoutube aria-label='YouTube' />
-                                </a>
-                            )}
-                            {socialsData.reddit && (
-                                <a
-                                    href={socialsData.reddit}
-                                    target='_blank'
-                                    rel='noreferrer'
-                                    className={classes.socialIcon}
-                                >
-                                    <FaRedditAlien aria-label='Reddit' />
-                                </a>
-                            )}
-                            {socialsData.stackOverflow && (
-                                <a
-                                    href={socialsData.stackOverflow}
-                                    target='_blank'
-                                    rel='noreferrer'
-                                    className={classes.socialIcon}
-                                >
-                                    <FaStackOverflow aria-label='Stack Overflow' />
+                                    <FaFacebook aria-label='Facebook' />
                                 </a>
                             )}
                             {socialsData.codepen && (
@@ -411,16 +371,6 @@ function Contacts() {
                                     className={classes.socialIcon}
                                 >
                                     <FaCodepen aria-label='CodePen' />
-                                </a>
-                            )}
-                            {socialsData.gitlab && (
-                                <a
-                                    href={socialsData.gitlab}
-                                    target='_blank'
-                                    rel='noreferrer'
-                                    className={classes.socialIcon}
-                                >
-                                    <FaGitlab aria-label='GitLab' />
                                 </a>
                             )}
                         </div>
