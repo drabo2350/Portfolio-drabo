@@ -8,7 +8,7 @@ function Main() {
     return (
         <div>
             <Helmet>
-                <title>{headerData.name} - Lacina DRABO</title>
+                <title>Lacina DRABO - Exploration</title>
             </Helmet>
 
             <Navbar />        
