@@ -112,6 +112,8 @@
     width: 150px;
     height: 130px;
     border-radius: 10px;
+    object-fit: cover;
+    object-position: center;
 }
 
 @media (min-width: 992px) and (max-width: 1380px) {

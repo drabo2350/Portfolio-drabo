@@ -4,7 +4,7 @@ import communicationDigitale from '../assets/jpg/com-digi.jpg'
 import modelisation3d from '../assets/png/3d.png'
 import html from '../assets/png/html.png'
 export const achievementData = {
-    bio : "Professionnel polyvalent et expérimenté dans le domaine du marketing numérique, avec une solide expérience dans la gestion de campagnes en ligne et hors ligne. Expert en stratégies de contenu et en communication, ayant dirigé des équipes pour atteindre des objectifs ambitieux. Passionné par l'innovation et la créativité, je cherche à relever de nouveaux défis dans un environnement dynamique.",
+    bio : "Fort de mon expérience dans la gestion de projets informatiques, j'ai développé une solide expertise dans la planification, la coordination et l'exécution de projets. Mon parcours m'a permis de maîtriser les outils et méthodologies de gestion de projet, ainsi que d'affiner mes compétences en communication et en leadership pour garantir la réussite des projets dont j'ai eu la responsabilité. J'ai travaillé sur des projets variés, allant de la création de sites web complexes à la mise en place de solutions logicielles innovantes, ce qui m'a permis d'acquérir une compréhension approfondie des enjeux et des défis spécifiques à chaque projet informatique.",
     achievements : [
         {
             id : 2,
