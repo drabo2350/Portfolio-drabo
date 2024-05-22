@@ -240,5 +240,9 @@
     left: 50%;
     top: 20%;
   }
+  .lcr-buttonContainer {
+    position: relative;
+    z-index: 100;
+  }
 
 }

@@ -1,7 +1,7 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Communauté virtuelle de Yopougon',
+        company: 'CVY',
         jobtitle: 'Chargé à l\'encadrement des etudiants de L1',
         startYear: '2022',
         endYear: 'Present'
