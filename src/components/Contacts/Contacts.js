@@ -148,14 +148,14 @@ function Contacts() {
                     setName('');
                     setEmail('');
                     setMessage('');
-                    setOpen(true);
+                    setOpen(false);
                 });
             } else {
-                setErrMsg('Invalid email');
+                setErrMsg('Email invalide');
                 setOpen(true);
             }
         } else {
-            setErrMsg('Enter all the fields');
+            setErrMsg('Remplissez tous les champs');
             setOpen(true);
         }
     };
