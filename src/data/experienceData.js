@@ -7,17 +7,18 @@ export const experienceData = [
         endYear: 'Present'
     },
     {
-        id: 2,
-        company: 'Learning Group',
-        jobtitle: 'Formateur | Programation',
-        startYear: '2021',
-        endYear: '2022'
-    },
-    {
         id: 3,
         company: 'Pneu Solution',
         jobtitle: 'Community manager',
         startYear: '2020',
         endYear: 'Present'
     },
+    {
+        id: 2,
+        company: 'Learning Group',
+        jobtitle: 'Formateur | Programation',
+        startYear: '2021',
+        endYear: '2022'
+    }
+    
 ]
